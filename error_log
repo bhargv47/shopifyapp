@@ -1,0 +1,45 @@
+[31-Jul-2019 13:22:40 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/inc/config.php on line 15
+[31-Jul-2019 13:24:22 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/index.php on line 15
+[31-Jul-2019 13:24:45 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/inc/config.php on line 15
+[31-Jul-2019 13:32:59 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'aweso_shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/index.php on line 15
+[31-Jul-2019 13:33:32 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'aweso_shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/index.php on line 15
+[31-Jul-2019 13:33:34 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'aweso_shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/index.php on line 15
+[31-Jul-2019 13:33:34 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'aweso_shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/index.php on line 15
+[31-Jul-2019 13:33:34 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'aweso_shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/index.php on line 15
+[31-Jul-2019 13:33:35 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'aweso_shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/index.php on line 15
+[31-Jul-2019 13:33:35 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'aweso_shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/index.php on line 15
+[31-Jul-2019 13:33:35 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'aweso_shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/index.php on line 15
+[31-Jul-2019 13:34:22 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'aweso_shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/index.php on line 15
+[31-Jul-2019 13:34:24 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'aweso_shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/index.php on line 15
+[31-Jul-2019 13:34:24 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'aweso_shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/index.php on line 15
+[31-Jul-2019 13:34:24 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'aweso_shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/index.php on line 15
+[31-Jul-2019 13:34:25 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'aweso_shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/index.php on line 15
+[31-Jul-2019 13:36:35 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'aweso_shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/index.php on line 15
+[31-Jul-2019 13:37:36 America/New_York] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'aweso_shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/index.php on line 15
+[31-Jul-2019 13:39:36 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'aweso_shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/index.php on line 15
+[31-Jul-2019 13:40:47 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'aweso_shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/index.php on line 15
+[31-Jul-2019 13:41:16 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'aweso_shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/index.php on line 15
+[31-Jul-2019 13:42:04 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'aweso_shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/index.php on line 15
+[31-Jul-2019 13:42:11 America/New_York] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'aweso_shopifyapp'@'localhost' (using password: YES) in /home/aweso/public_html/index.php on line 15
+[31-Jul-2019 13:46:48 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/aweso/public_html/generate_token.php:87
+Stack trace:
+#0 {main}
+  thrown in /home/aweso/public_html/generate_token.php on line 87
+[31-Jul-2019 13:53:09 America/New_York] PHP Notice:  Array to string conversion in /home/aweso/public_html/generate_token.php on line 88
+[31-Jul-2019 13:53:55 America/New_York] PHP Notice:  Array to string conversion in /home/aweso/public_html/generate_token.php on line 88
+[31-Jul-2019 13:53:55 America/New_York] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/aweso/public_html/generate_token.php on line 88
+[31-Jul-2019 13:54:21 America/New_York] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/aweso/public_html/generate_token.php on line 88
+[31-Jul-2019 13:56:12 America/New_York] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/aweso/public_html/generate_token.php on line 88
+[31-Jul-2019 13:57:13 America/New_York] PHP Notice:  Undefined variable: shop in /home/aweso/public_html/index.php on line 25
+[31-Jul-2019 13:57:13 America/New_York] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/aweso/public_html/index.php on line 31
+[31-Jul-2019 13:57:16 America/New_York] PHP Notice:  Undefined variable: shop in /home/aweso/public_html/index.php on line 25
+[31-Jul-2019 13:57:16 America/New_York] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/aweso/public_html/index.php on line 31
+[31-Jul-2019 13:57:21 America/New_York] PHP Notice:  Undefined variable: shop in /home/aweso/public_html/index.php on line 25
+[31-Jul-2019 13:57:21 America/New_York] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/aweso/public_html/index.php on line 31
+[31-Jul-2019 13:57:23 America/New_York] PHP Notice:  Undefined variable: shop in /home/aweso/public_html/index.php on line 25
+[31-Jul-2019 13:57:23 America/New_York] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/aweso/public_html/index.php on line 31
+[31-Jul-2019 13:58:03 America/New_York] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/aweso/public_html/index.php on line 31
+[31-Jul-2019 13:58:23 America/New_York] PHP Notice:  Array to string conversion in /home/aweso/public_html/index.php on line 31
+[31-Jul-2019 13:58:41 America/New_York] PHP Notice:  Array to string conversion in /home/aweso/public_html/index.php on line 31
+[31-Jul-2019 14:00:25 America/New_York] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/aweso/public_html/index.php on line 29
+[31-Jul-2019 14:00:27 America/New_York] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/aweso/public_html/index.php on line 29

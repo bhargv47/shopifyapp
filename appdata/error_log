@@ -1,0 +1,78 @@
+[31-Jul-2019 08:29:02 UTC] PHP Notice:  Undefined variable: conn in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:02 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:09 UTC] PHP Notice:  Undefined variable: conn in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:29 UTC] PHP Notice:  Undefined variable: conn in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:30 UTC] PHP Notice:  Undefined variable: conn in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:30 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:37 UTC] PHP Notice:  Undefined variable: conn in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:38 UTC] PHP Notice:  Undefined variable: conn in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:39 UTC] PHP Notice:  Undefined variable: conn in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:39 UTC] PHP Notice:  Undefined variable: conn in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:39 UTC] PHP Notice:  Undefined variable: conn in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:39 UTC] PHP Notice:  Undefined variable: conn in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:39 UTC] PHP Notice:  Undefined variable: conn in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:40 UTC] PHP Notice:  Undefined variable: conn in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:40 UTC] PHP Notice:  Undefined variable: conn in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:52 UTC] PHP Notice:  Undefined variable: conn in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:29:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:30:03 UTC] PHP Notice:  Undefined variable: conn in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 08:30:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/form.php on line 5
+[31-Jul-2019 11:41:15 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/account.php on line 10
+[31-Jul-2019 11:43:13 UTC] PHP Parse error:  syntax error, unexpected 'fname' (T_STRING), expecting ',' or ';' in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/account.php on line 6
+[31-Jul-2019 11:48:29 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/b5fqg8hrgror/public_html/app.infinityproject.in/appdata/account.php on line 9
